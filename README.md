@@ -1,2 +1,8 @@
 # Coursera_Capstone
 Coursera Capstone Project for IBM
+
+This folder contains the files for the Capstone project for the IBM Data Science course on Coursera.
+
+- TO ethnic restaurants.pdf: The final report on the analysis of ethnic restaurants in Toronto
+- TO ethnic restaurants.ipynb: Jupyter notebook of the analysis
+- Week 3 - Clustering Toronto neighbourhoo.ipynb: A clustering exercise of different neighbourhoods in Toronto
