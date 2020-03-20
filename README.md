@@ -8,4 +8,5 @@ This folder contains the files for the Capstone project for the IBM Data Science
 - Week 3 - Clustering Toronto neighbourhoo.ipynb: A clustering exercise of different neighbourhoods in Toronto
 
 A blog post summarizing the results of the study can be found at:
+
 https://medium.com/@hhfchoi/ethnic-restaurants-in-toronto-b2bfb9236179
