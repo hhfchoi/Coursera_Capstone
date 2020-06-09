@@ -1,5 +1,5 @@
-# Coursera_Capstone
-Coursera Capstone Project for IBM
+# Coursera Capstone
+Coursera Capstone Project for IBM Data Science Specialization (Coursera)
 
 This folder contains the files for the Capstone project for the IBM Data Science course on Coursera.
 
